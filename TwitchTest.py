@@ -15,7 +15,7 @@ Get token here: https://twitchapps.com/tmi/
 server = 'irc.chat.twitch.tv'
 port = 6667
 nickname = 'sirmazalot'
-token = 'oauth:mqxd1ggkfjkep38b7rbcthbuk98qgz'
+token = 'oauth:tokengoeshere'
 channel = 'ninja'
 
 
